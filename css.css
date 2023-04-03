@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.header-box{
+  padding:30px 20px;
+  background-color:#ff00ff;
+  display:flex;
+  justify-content: flex-end;
+}
+
+.header-box > div{
+  flex-basis:140px;
+  background-color:#fbb3ff;
+  height: 70px;
+  margin:0 10px;
+}
+
